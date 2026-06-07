@@ -1,6 +1,6 @@
 # 🎨 ColorFlux Puzzle
 
-A fast-paced color matching puzzle game developed using Unity.
+A fast-paced color matching puzzle game developed using Unity and C#.
 
 ## 📱 Play Store
 
@@ -26,19 +26,19 @@ https://play.google.com/store/apps/details?id=com.ssonicgames.colorflux
 
 ### Main Menu
 
-![Main Menu](images/WhatsApp%20Image%202026-06-07%20at%20XX.jpeg)
+![Main Menu](images/WhatsApp%20Image%202026-06-07%20at%2012.42.08%20PM.jpeg)
+
+### Game Screen
+
+![Game Screen](images/WhatsApp%20Image%202026-06-07%20at%2012.42.08%20PM%20(1).jpeg)
 
 ### Gameplay
 
-![Gameplay](images/WhatsApp%20Image%202026-06-07%20at%20XX.jpeg)
-
-### Level Progress
-
-![Level Progress](images/WhatsApp%20Image%202026-06-07%20at%20XX.jpeg)
+![Gameplay](images/WhatsApp%20Image%202026-06-07%20at%2012.42.08%20PM%20(2).jpeg)
 
 ### Result Screen
 
-![Result Screen](images/WhatsApp%20Image%202026-06-07%20at%20XX.jpeg)
+![Result Screen](images/WhatsApp%20Image%202026-06-07%20at%2012.42.09%20PM.jpeg)
 
 ---
 
@@ -48,6 +48,8 @@ https://play.google.com/store/apps/details?id=com.ssonicgames.colorflux
 
 Unity Game Developer | C# Programmer
 
+---
+
 ## 🏢 Organization
 
 **SSONICGAMES**
@@ -55,5 +57,13 @@ Unity Game Developer | C# Programmer
 *"Learn • Play • Grow"*
 
 Creating educational apps and mobile games using Unity.
+
+---
+
+## 🔗 Download
+
+https://play.google.com/store/apps/details?id=com.ssonicgames.colorflux
+
+---
 
 © 2026 SSONICGAMES. All Rights Reserved.
